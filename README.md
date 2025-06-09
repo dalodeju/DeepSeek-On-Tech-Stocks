@@ -1,6 +1,6 @@
 # The Release of DeepSeek R1 on Tech Stocks 
 
-An informal cross-tool analysis of how the Jan 27 2025 release of DeepSeek’s R1 AI model shook—and then spurred a rebound in—major tech stocks. This repo combines:
+An informal cross-tool analysis of how the Jan 27 2025 release of DeepSeek’s R1 AI model shook and rebound major tech stocks. This repo combines:
 
 - **Sentiment analysis** on news headlines (alarm / opportunity / neutral)
 - **OHLCV stock-price dashboards** in Power BI
