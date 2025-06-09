@@ -1,4 +1,4 @@
-# DeepSeek-On-TechGiants-Report
+# How DeepSeek R1 Shaped Tech Stocks 
 
 A cross-tool analysis of how the Jan 27 2025 release of DeepSeek’s R1 AI model shook—and then spurred a rebound in—major tech stocks. This repo combines:
 
