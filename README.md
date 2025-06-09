@@ -48,7 +48,7 @@ python parser.py \
 
 ## 2. Price Data CSVs
 
-Six CSV files in `data/`—one per ticker/index—cover daily OHLCV from **Oct 1 2024** through **Mar 31 2025**:
+Six CSV files in `data/`—one per ticker/index—cover daily OHLCV from **Oct 1 2024** through **Mar 31 2025** from Yahoo Finance:
 
 - **Alphabet A (GOOGL) Historical Data OCT24-MAR25.csv**  
 - **Broadcom (AVGO) Historical Data OCT24-MAR25.csv**  
