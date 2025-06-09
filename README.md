@@ -31,11 +31,13 @@ pip install -r requirements.txt
 ```
 
 ### Usage
+```bash
 python parser.py \
   --query "NVDA OR tech news site:finance.yahoo.com OR site:bloomberg.com after:2025-01-25 before:2025-01-29" \
   --output "../data/tech_news_sentiment.xlsx" \
   --delay 3 \
   --scrolls 5
+```
 
 | Argument    | Description                                   | Default                                                                                             |
 | ----------- | --------------------------------------------- | --------------------------------------------------------------------------------------------------- |
