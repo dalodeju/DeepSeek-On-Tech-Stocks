@@ -73,7 +73,6 @@ The file `reports/The Release of DeepSeek on Tech Giants.pbix` contains:
   Date joins between the merged price table and event-metadata table  
 - **DAX measures**  
   - Daily % change  
-  - Rolling 7-day average  
   - Sentiment-score summaries  
   - “Days from event” calculation  
 - **What-If parameter**  
@@ -81,24 +80,5 @@ The file `reports/The Release of DeepSeek on Tech Giants.pbix` contains:
 - **Visuals**  
   - **Bar chart**: Sentiment Score by date (Jan 25–29)  
   - **Line charts**: Price indexed to Day 0 (Jan 26) for each ticker  
-  - **KPI cards**: Max drop, cumulative returns  
-  - **Bookmarks**: “Before,” “Panic,” “Recovery” narrative flow  
 - **Interactivity**  
   Dynamic titles, tooltips, slicers, and parameter controls for exploration  
-
----
-
-## 4. How to Explore
-
-1. **Open**  
-   `The Release of DeepSeek on Tech Giants.pbix` in Power BI Desktop  
-2. **Refresh**  
-   Data sources (no extra parameters—just ensure CSVs and Excel are in `data/`)  
-3. **Navigate** through report pages:  
-   - **Sentiment Overview** (bar + table)  
-   - **Equity Reaction** (six small-multiples of pre-/post-event price)  
-   - **Deep Dive** (detailed NVDA analysis)  
-4. **Adjust**  
-   The event-window slider (±3, ±7, ±14 days) in the filter pane  
-5. **Use**  
-   Bookmarks or on-canvas arrow buttons to move through “Before → Panic → Recovery”  
