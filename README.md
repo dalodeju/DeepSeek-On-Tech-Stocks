@@ -81,6 +81,7 @@ The file `reports/The Release of DeepSeek on Tech Giants.pbix` contains:
   Adjustable event window (±3, ±7, ±14 days)  
 - **Visuals**  
   - **Bar chart**: Sentiment Score by date (Jan 25–29)  
-  - **Line charts**: Price indexed to Day 0 (Jan 26) for each ticker  
+  - **Line charts**: Price indexed to Day 0 (Jan 27) for each ticker
+  - **KPI Cards**: % Change 5 days before the Event (Jan 22) and 7 days after the Event (Feb 3)
 - **Interactivity**  
   Dynamic titles, tooltips, slicers, and parameter controls for exploration  
